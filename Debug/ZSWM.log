@@ -1,0 +1,23 @@
+﻿  pch.cpp
+  CDIG_CUSANDSHOP_.cpp
+  CDIG_CUS_DIANCAN.cpp
+  CDIG_CUS_FUWU.cpp
+  CDIG_CUS_INFORMATION.cpp
+  CDLG_CUS_LISHIDINGDAN.cpp
+  CDLG_LOGIN.cpp
+  Cus_dishinformation.cpp
+  Cus_SelectView.cpp
+  CZSWMMAP.cpp
+C:\Users\Lenovo-LI\source\repos\ZSWM\CZSWMMAP.cpp(161,18): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo-LI\source\repos\ZSWM\CZSWMMAP.cpp(162,18): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo-LI\source\repos\ZSWM\CZSWMMAP.cpp(163,18): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo-LI\source\repos\ZSWM\CZSWMMAP.cpp(164,18): warning C4244:  “=”: 从“double”转换到“int”，可能丢失数据
+  InfoFile.cpp
+  MainFrm.cpp
+  TabSheet.cpp
+  ZSWM.cpp
+  ZSWMDoc.cpp
+  ZSWMView.cpp
+  正在生成代码...
+C:\Users\Lenovo-LI\source\repos\ZSWM\CZSWMMAP.cpp(173,13): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+  ZSWM.vcxproj -> C:\Users\Lenovo-LI\source\repos\ZSWM\Debug\ZSWM.exe
