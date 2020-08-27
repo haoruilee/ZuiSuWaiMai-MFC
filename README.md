@@ -14,6 +14,8 @@
 
 本人为项目负责人，实现基础框架、买方UI，贡献40%
 
+由于Github存在上传限制，因此部分文件缺失，如需原始文件请联系 [haoruileee@gmail.com](haoruileee@gmail.com)
+
 # 项目思路
 
 MFC和数据结构结合，MFC模仿美团外卖UI，实现外卖核心功能
