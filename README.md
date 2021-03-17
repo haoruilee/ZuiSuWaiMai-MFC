@@ -6,6 +6,8 @@
 
 #### 国内高校里开设MFC项目课程不多，仅供学习交流，请勿撞车
 
+*部分素材过大无法上传github，请访问[百度网盘](https://pan.baidu.com/s/1bl5kE8vqgQVTxmkv3QIoYw)提取码：s09u*
+
 大一的C++课程项目，使用MFC框架搭建外卖平台，实现买、卖、送货、签收等核心功能
 
 感谢两名尽职的队友ldy和xyf
